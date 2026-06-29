@@ -1,0 +1,25 @@
+name: ffPersistenceExample
+main: pl.fejzu.persistence.examples.paper.ExamplePaperPlugin
+version: 1.0.0
+api-version: "1.21"
+description: ffPersistence usage example for Paper
+
+commands:
+  coins:
+    description: Show your coin balance.
+    usage: /coins
+  addcoins:
+    description: Add coins to your balance.
+    usage: /addcoins <amount>
+  sector:
+    description: Transfer to a sector.
+    usage: /sector <sector>
+  sync:
+    description: Sync your player data to all servers.
+    usage: /sync
+  save:
+    description: Save your player data now.
+    usage: /save
+  load:
+    description: Reload your player data from the database.
+    usage: /load

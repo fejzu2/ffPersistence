@@ -1,0 +1,11 @@
+# MongoDB
+MONGO_URI=mongodb://localhost:27017
+MONGO_DATABASE=ffpersistence_example
+
+# Redis (optional, enables cross-server sync)
+REDIS_HOST=localhost
+REDIS_PORT=6379
+# REDIS_PASSWORD=your_password_here
+
+# NATS (alternative to Redis)
+# NATS_URL=nats://localhost:4222

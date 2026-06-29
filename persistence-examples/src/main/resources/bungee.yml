@@ -1,0 +1,5 @@
+name: ffPersistenceExampleBungee
+main: pl.fejzu.persistence.examples.bungee.ExampleBungeePlugin
+version: 1.0.0
+author: fejzu
+description: ffPersistence usage example for BungeeCord

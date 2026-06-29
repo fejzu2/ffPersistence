@@ -1,0 +1,8 @@
+{
+  "id": "ffpersistence-example-velocity",
+  "name": "ffPersistence Example Velocity",
+  "version": "1.0.0",
+  "description": "ffPersistence usage example for Velocity",
+  "authors": ["fejzu"],
+  "main": "pl.fejzu.persistence.examples.velocity.ExampleVelocityPlugin"
+}
